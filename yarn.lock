@@ -179,7 +179,7 @@ __metadata:
     eslint-plugin-react-hooks: 4.6.0
     stylelint: 14.15.0
     stylelint-config-standard: 29.0.0
-    stylelint-no-unsupported-browser-features: 5.0.3
+    stylelint-no-unsupported-browser-features: 6.0.1
     stylelint-order: 5.0.0
   peerDependencies:
     stylelint: ">= 14.9.1"
@@ -2585,7 +2585,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss@npm:^8.2.4, postcss@npm:^8.3.11, postcss@npm:^8.3.6":
+"postcss@npm:^8.2.4, postcss@npm:^8.3.11":
   version: 8.4.14
   resolution: "postcss@npm:8.4.14"
   dependencies:
@@ -2596,7 +2596,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss@npm:^8.4.19":
+"postcss@npm:^8.4.16, postcss@npm:^8.4.19":
   version: 8.4.19
   resolution: "postcss@npm:8.4.19"
   dependencies:
@@ -3129,16 +3129,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"stylelint-no-unsupported-browser-features@npm:5.0.3":
-  version: 5.0.3
-  resolution: "stylelint-no-unsupported-browser-features@npm:5.0.3"
+"stylelint-no-unsupported-browser-features@npm:6.0.1":
+  version: 6.0.1
+  resolution: "stylelint-no-unsupported-browser-features@npm:6.0.1"
   dependencies:
     doiuse: ^4.4.1
     lodash: ^4.17.15
-    postcss: ^8.3.6
+    postcss: ^8.4.16
   peerDependencies:
-    stylelint: ">=13.0.0"
-  checksum: cdaf18bc6b32fa0b2cd6d5e3fcb6cc2fbcfb05a9430594881931cda1cc0fee4619df0c1546d4c53637e24fadcdbde1b9e60e0127632f55a1a09fb3044ab160d8
+    stylelint: ^14.0.0
+  checksum: 0213dc06b2cf408b4e41635763b8ebe20772f0ccf3568aa85eda8042262a447b4462ff07e8b4f8290d0b6cbf0188d08d8e959f07d4ce078ca21537a5ab662090
   languageName: node
   linkType: hard
 
