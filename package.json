@@ -20,6 +20,9 @@
     "lint": "eslint .",
     "fix": "eslint . --fix"
   },
+  "engines": {
+    "node": "16.15.0"
+  },
   "packageManager": "yarn@3.2.4",
   "peerDependencies": {
     "stylelint": ">= 14.9.1"
