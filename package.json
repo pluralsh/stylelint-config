@@ -34,7 +34,7 @@
     "stylelint-order": "5.0.0"
   },
   "devDependencies": {
-    "eslint": "8.27.0",
+    "eslint": "8.28.0",
     "eslint-config-pluralsh": "3.1.0",
     "eslint-plugin-import": "2.26.0",
     "eslint-plugin-jsx-a11y": "6.6.1",
