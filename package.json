@@ -23,7 +23,7 @@
   "engines": {
     "node": "18.18.2"
   },
-  "packageManager": "yarn@3.6.4",
+  "packageManager": "yarn@3.7.0",
   "peerDependencies": {
     "stylelint": ">= 14.9.1"
   },
