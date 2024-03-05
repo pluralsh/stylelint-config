@@ -34,7 +34,7 @@
     "stylelint-order": "6.0.4"
   },
   "devDependencies": {
-    "conventional-changelog-conventionalcommits": "6.1.0",
+    "conventional-changelog-conventionalcommits": "7.0.2",
     "eslint": "8.57.0",
     "eslint-config-pluralsh": "3.1.0",
     "eslint-plugin-import": "2.29.1",
